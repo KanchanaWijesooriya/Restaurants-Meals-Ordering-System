@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EBF80074-ED1E-45B6-89B3-75965805592C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GUI_course_work</RootNamespace>
+    <AssemblyName>GUI course work</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySqlConnector, Version=2.0.0.0, Culture=neutral, PublicKeyToken=d33d3e53aa5f8c92, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySqlConnector.2.2.5\lib\net471\MySqlConnector.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.6.0.0\lib\net461\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForm.Designer.cs">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuyConfermation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuyConfermation.Designer.cs">
+      <DependentUpon>BuyConfermation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bverages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bverages.Designer.cs">
+      <DependentUpon>Bverages.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DailyUpdateDB.cs" />
+    <Compile Include="FoodItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FoodItems.Designer.cs">
+      <DependentUpon>FoodItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FoodListView.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MidFoodandBuyConfermation.cs" />
+    <Compile Include="OneForAll.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReportCreater.cs" />
+    <Compile Include="security.cs" />
+    <Compile Include="SelectMethod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectMethod.Designer.cs">
+      <DependentUpon>SelectMethod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateForm.Designer.cs">
+      <DependentUpon>UpdateForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForm.resx">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuyConfermation.resx">
+      <DependentUpon>BuyConfermation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bverages.resx">
+      <DependentUpon>Bverages.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FoodItems.resx">
+      <DependentUpon>FoodItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SelectMethod.resx">
+      <DependentUpon>SelectMethod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateForm.resx">
+      <DependentUpon>UpdateForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1200990.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-pixabay-50594.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\39-anime-dance-girl-usagif-title.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MPV.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dark-surface-with-blank-space-fast-food-menu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fast-food-dish-blue.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\front-view-tasty-meat-burger-with-cheese-salad-dark-background %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Whole-Wheat-Pizza-Dough-Recipe-6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\real-simple-mushroom-black-bean-burgers-recipe-0c365277d4294e6db2daa3353d6ff605.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slice-chicken-nuggets-ketchup-plate-filled-chicken-nuggets-glass-wine-dark-background-vertical-168531423.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FullSizeRender 171.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\easy-french-fries-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chicken-shawarma-6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-1442114184-170667a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-694549544-612x612.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dark-surface-with-blank-space-fast-food-menu1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-542322474-170667a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-1366672341-170667a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\glass-lemonade-12731219.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-1291175021-170667a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Almond-Milk-Tea-Feat.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Falooda-3260-780x1169.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-to-cart-icon-adding-shopping-cart-well-organized-fully-editable-add-to-cart-icon-adding-shopping-cart-any-use-like-167547952.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-to-cart-icon-adding-shopping-cart-well-organized-fully-editable-add-to-cart-icon-adding-shopping-cart-any-use-like-1675479521.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Indian-But-Not-Indian-Food-feature.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-chris-f-1283219.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\peakpx.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-1310770982-612x612.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee-house-wallpaper-mural-custom-sizes-available-household-wallpaper-maughons-480065_1024x1024.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1663549.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\beverage1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Indian-But-Not-Indian-Food-feature1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\271681.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6271108.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6271146.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-chris-f-12832191.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2716811.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-1317443847-612x612.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-business-technology-digital-high-tech-world-background-backgroundtechnology-backgroundhigh-tech-backgroundworld-image_79012.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-black-meat-western-food-banner-background-image_194600.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-food-food-snack-eating-goods-image_14522.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\525108.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\front-view-burger-with-french-fries.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee_rorozoa_3_15.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\71cX32jS8lL._AC_UF894,1000_QL80_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HTB1Vu0LKVXXXXajXVXXq6xXFXXXe.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-1317443847-612x6121.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-gourmet-japanese-restaurant-sushi-creative-simple-business-poster-design-image_157485.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dutch-Colony-Coffee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photo-food-background-ingredients-dark-design-tile-cooking-products-173209689 %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\top-view-beef-burger-ready-be-served.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\top-view-beef-burger-ready-be-served1212.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desktop-1920x1080.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-black-meat-western-food-banner-background-image_1946001.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

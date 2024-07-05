@@ -1,0 +1,284 @@
+C:\Users\Geeneth\source\repos\GUI course work\GUI course work\bin\Debug\GUI course work.exe.config
+C:\Users\Geeneth\source\repos\GUI course work\GUI course work\bin\Debug\GUI course work.exe
+C:\Users\Geeneth\source\repos\GUI course work\GUI course work\bin\Debug\GUI course work.pdb
+C:\Users\Geeneth\source\repos\GUI course work\GUI course work\obj\Debug\GUI course work.csproj.AssemblyReference.cache
+C:\Users\Geeneth\source\repos\GUI course work\GUI course work\obj\Debug\GUI course work.csproj.SuggestedBindingRedirects.cache
+C:\Users\Geeneth\source\repos\GUI course work\GUI course work\obj\Debug\GUI_course_work.FoodItems.resources
+C:\Users\Geeneth\source\repos\GUI course work\GUI course work\obj\Debug\GUI_course_work.Form1.resources
+C:\Users\Geeneth\source\repos\GUI course work\GUI course work\obj\Debug\GUI_course_work.Properties.Resources.resources
+C:\Users\Geeneth\source\repos\GUI course work\GUI course work\obj\Debug\GUI course work.csproj.GenerateResource.cache
+C:\Users\Geeneth\source\repos\GUI course work\GUI course work\obj\Debug\GUI course work.csproj.CoreCompileInputs.cache
+C:\Users\Geeneth\source\repos\GUI course work\GUI course work\obj\Debug\GUI course work.exe
+C:\Users\Geeneth\source\repos\GUI course work\GUI course work\obj\Debug\GUI course work.pdb
+C:\Users\Geeneth\source\repos\GUI course work\GUI course work\obj\Debug\GUI_course_work.AdminForm.resources
+C:\Users\Geeneth\source\repos\GUI course work\GUI course work\bin\Debug\MySqlConnector.dll
+C:\Users\Geeneth\source\repos\GUI course work\GUI course work\bin\Debug\System.Buffers.dll
+C:\Users\Geeneth\source\repos\GUI course work\GUI course work\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Geeneth\source\repos\GUI course work\GUI course work\bin\Debug\System.Memory.dll
+C:\Users\Geeneth\source\repos\GUI course work\GUI course work\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Geeneth\source\repos\GUI course work\GUI course work\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Geeneth\source\repos\GUI course work\GUI course work\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Geeneth\source\repos\GUI course work\GUI course work\bin\Debug\MySqlConnector.xml
+C:\Users\Geeneth\source\repos\GUI course work\GUI course work\bin\Debug\System.Buffers.xml
+C:\Users\Geeneth\source\repos\GUI course work\GUI course work\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Geeneth\source\repos\GUI course work\GUI course work\bin\Debug\System.Memory.xml
+C:\Users\Geeneth\source\repos\GUI course work\GUI course work\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Geeneth\source\repos\GUI course work\GUI course work\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Geeneth\source\repos\GUI course work\GUI course work\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Geeneth\source\repos\GUI course work\GUI course work\obj\Debug\GUI course work.csproj.CopyComplete
+C:\Users\Geeneth\source\repos\GUI course work\GUI course work\obj\Debug\GUI_course_work.SelectMethod.resources
+C:\Users\wmpra\OneDrive\Desktop\GUI course work\GUI course work\bin\Debug\GUI course work.exe.config
+C:\Users\wmpra\OneDrive\Desktop\GUI course work\GUI course work\bin\Debug\GUI course work.exe
+C:\Users\wmpra\OneDrive\Desktop\GUI course work\GUI course work\bin\Debug\GUI course work.pdb
+C:\Users\wmpra\OneDrive\Desktop\GUI course work\GUI course work\bin\Debug\MySqlConnector.dll
+C:\Users\wmpra\OneDrive\Desktop\GUI course work\GUI course work\bin\Debug\System.Buffers.dll
+C:\Users\wmpra\OneDrive\Desktop\GUI course work\GUI course work\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wmpra\OneDrive\Desktop\GUI course work\GUI course work\bin\Debug\System.Memory.dll
+C:\Users\wmpra\OneDrive\Desktop\GUI course work\GUI course work\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\wmpra\OneDrive\Desktop\GUI course work\GUI course work\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\wmpra\OneDrive\Desktop\GUI course work\GUI course work\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\wmpra\OneDrive\Desktop\GUI course work\GUI course work\bin\Debug\MySqlConnector.xml
+C:\Users\wmpra\OneDrive\Desktop\GUI course work\GUI course work\bin\Debug\System.Buffers.xml
+C:\Users\wmpra\OneDrive\Desktop\GUI course work\GUI course work\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\wmpra\OneDrive\Desktop\GUI course work\GUI course work\bin\Debug\System.Memory.xml
+C:\Users\wmpra\OneDrive\Desktop\GUI course work\GUI course work\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\wmpra\OneDrive\Desktop\GUI course work\GUI course work\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\wmpra\OneDrive\Desktop\GUI course work\GUI course work\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\wmpra\OneDrive\Desktop\GUI course work\GUI course work\obj\Debug\GUI course work.csproj.AssemblyReference.cache
+C:\Users\wmpra\OneDrive\Desktop\GUI course work\GUI course work\obj\Debug\GUI course work.csproj.SuggestedBindingRedirects.cache
+C:\Users\wmpra\OneDrive\Desktop\GUI course work\GUI course work\obj\Debug\GUI_course_work.Admin.resources
+C:\Users\wmpra\OneDrive\Desktop\GUI course work\GUI course work\obj\Debug\GUI_course_work.AdminForm.resources
+C:\Users\wmpra\OneDrive\Desktop\GUI course work\GUI course work\obj\Debug\GUI_course_work.FoodItems.resources
+C:\Users\wmpra\OneDrive\Desktop\GUI course work\GUI course work\obj\Debug\GUI_course_work.Form1.resources
+C:\Users\wmpra\OneDrive\Desktop\GUI course work\GUI course work\obj\Debug\GUI_course_work.Properties.Resources.resources
+C:\Users\wmpra\OneDrive\Desktop\GUI course work\GUI course work\obj\Debug\GUI_course_work.SelectMethod.resources
+C:\Users\wmpra\OneDrive\Desktop\GUI course work\GUI course work\obj\Debug\GUI course work.csproj.GenerateResource.cache
+C:\Users\wmpra\OneDrive\Desktop\GUI course work\GUI course work\obj\Debug\GUI course work.csproj.CoreCompileInputs.cache
+C:\Users\wmpra\OneDrive\Desktop\GUI course work\GUI course work\obj\Debug\GUI course work.csproj.CopyComplete
+C:\Users\wmpra\OneDrive\Desktop\GUI course work\GUI course work\obj\Debug\GUI course work.exe
+C:\Users\wmpra\OneDrive\Desktop\GUI course work\GUI course work\obj\Debug\GUI course work.pdb
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\bin\Debug\GUI course work.exe.config
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\bin\Debug\GUI course work.exe
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\bin\Debug\GUI course work.pdb
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\bin\Debug\MySqlConnector.dll
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\bin\Debug\System.Buffers.dll
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\bin\Debug\System.Memory.dll
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\bin\Debug\MySqlConnector.xml
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\bin\Debug\System.Buffers.xml
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\bin\Debug\System.Memory.xml
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\obj\Debug\GUI course work.csproj.AssemblyReference.cache
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\obj\Debug\GUI course work.csproj.SuggestedBindingRedirects.cache
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\obj\Debug\GUI_course_work.Admin.resources
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\obj\Debug\GUI_course_work.AdminForm.resources
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\obj\Debug\GUI_course_work.Bverages.resources
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\obj\Debug\GUI_course_work.FoodItems.resources
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\obj\Debug\GUI_course_work.Form1.resources
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\obj\Debug\GUI_course_work.Properties.Resources.resources
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\obj\Debug\GUI_course_work.SelectMethod.resources
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\obj\Debug\GUI course work.csproj.GenerateResource.cache
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\obj\Debug\GUI course work.csproj.CoreCompileInputs.cache
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\obj\Debug\GUI course work.csproj.CopyComplete
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\obj\Debug\GUI course work.exe
+C:\Users\CHANUKA\Desktop\GUI course work\GUI course work\obj\Debug\GUI course work.pdb
+E:\GUI course work\GUI course work\bin\Debug\GUI course work.exe.config
+E:\GUI course work\GUI course work\bin\Debug\GUI course work.exe
+E:\GUI course work\GUI course work\bin\Debug\GUI course work.pdb
+E:\GUI course work\GUI course work\bin\Debug\MySqlConnector.dll
+E:\GUI course work\GUI course work\bin\Debug\System.Buffers.dll
+E:\GUI course work\GUI course work\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\GUI course work\GUI course work\bin\Debug\System.Memory.dll
+E:\GUI course work\GUI course work\bin\Debug\System.Numerics.Vectors.dll
+E:\GUI course work\GUI course work\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\GUI course work\GUI course work\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\GUI course work\GUI course work\bin\Debug\MySqlConnector.xml
+E:\GUI course work\GUI course work\bin\Debug\System.Buffers.xml
+E:\GUI course work\GUI course work\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\GUI course work\GUI course work\bin\Debug\System.Memory.xml
+E:\GUI course work\GUI course work\bin\Debug\System.Numerics.Vectors.xml
+E:\GUI course work\GUI course work\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\GUI course work\GUI course work\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\GUI course work\GUI course work\obj\Debug\GUI course work.csproj.AssemblyReference.cache
+E:\GUI course work\GUI course work\obj\Debug\GUI course work.csproj.SuggestedBindingRedirects.cache
+E:\GUI course work\GUI course work\obj\Debug\GUI_course_work.Admin.resources
+E:\GUI course work\GUI course work\obj\Debug\GUI_course_work.AdminForm.resources
+E:\GUI course work\GUI course work\obj\Debug\GUI_course_work.Bverages.resources
+E:\GUI course work\GUI course work\obj\Debug\GUI_course_work.FoodItems.resources
+E:\GUI course work\GUI course work\obj\Debug\GUI_course_work.Form1.resources
+E:\GUI course work\GUI course work\obj\Debug\GUI_course_work.Properties.Resources.resources
+E:\GUI course work\GUI course work\obj\Debug\GUI_course_work.SelectMethod.resources
+E:\GUI course work\GUI course work\obj\Debug\GUI course work.csproj.GenerateResource.cache
+E:\GUI course work\GUI course work\obj\Debug\GUI course work.csproj.CoreCompileInputs.cache
+E:\GUI course work\GUI course work\obj\Debug\GUI course work.csproj.CopyComplete
+E:\GUI course work\GUI course work\obj\Debug\GUI course work.exe
+E:\GUI course work\GUI course work\obj\Debug\GUI course work.pdb
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\obj\Debug\GUI course work.csproj.AssemblyReference.cache
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\obj\Debug\GUI course work.csproj.SuggestedBindingRedirects.cache
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\obj\Debug\GUI_course_work.Admin.resources
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\obj\Debug\GUI_course_work.AdminForm.resources
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\obj\Debug\GUI_course_work.Bverages.resources
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\obj\Debug\GUI_course_work.FoodItems.resources
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\obj\Debug\GUI_course_work.Form1.resources
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\obj\Debug\GUI_course_work.Properties.Resources.resources
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\obj\Debug\GUI_course_work.SelectMethod.resources
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\obj\Debug\GUI_course_work.UpdateForm.resources
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\obj\Debug\GUI course work.csproj.GenerateResource.cache
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\obj\Debug\GUI course work.csproj.CoreCompileInputs.cache
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\obj\Debug\GUI course work.exe
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\obj\Debug\GUI course work.pdb
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\bin\Debug\GUI course work.exe.config
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\bin\Debug\GUI course work.exe
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\bin\Debug\GUI course work.pdb
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\bin\Debug\MySqlConnector.dll
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\bin\Debug\System.Buffers.dll
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\bin\Debug\System.Memory.dll
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\bin\Debug\MySqlConnector.xml
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\bin\Debug\System.Buffers.xml
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\bin\Debug\System.Memory.xml
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Geeneth\Desktop\GUI course work\GUI course work\obj\Debug\GUI course work.csproj.CopyComplete
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\bin\Debug\GUI course work.exe.config
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\bin\Debug\GUI course work.exe
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\bin\Debug\GUI course work.pdb
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\bin\Debug\MySqlConnector.dll
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\bin\Debug\System.Buffers.dll
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\bin\Debug\System.Memory.dll
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\bin\Debug\MySqlConnector.xml
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\bin\Debug\System.Buffers.xml
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\bin\Debug\System.Memory.xml
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\obj\Debug\GUI course work.csproj.AssemblyReference.cache
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\obj\Debug\GUI course work.csproj.SuggestedBindingRedirects.cache
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\obj\Debug\GUI_course_work.Admin.resources
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\obj\Debug\GUI_course_work.AdminForm.resources
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\obj\Debug\GUI_course_work.BuyConfermation.resources
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\obj\Debug\GUI_course_work.Bverages.resources
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\obj\Debug\GUI_course_work.FoodItems.resources
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\obj\Debug\GUI_course_work.Form1.resources
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\obj\Debug\GUI_course_work.Properties.Resources.resources
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\obj\Debug\GUI_course_work.SelectMethod.resources
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\obj\Debug\GUI_course_work.UpdateForm.resources
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\obj\Debug\GUI course work.csproj.GenerateResource.cache
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\obj\Debug\GUI course work.csproj.CoreCompileInputs.cache
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\obj\Debug\GUI course work.csproj.CopyComplete
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\obj\Debug\GUI course work.exe
+C:\Users\Geeneth\Desktop\GUI course work 2.0\GUI course work\obj\Debug\GUI course work.pdb
+D:\Studies\guiii\GUI course work 2.0\GUI course work\bin\Debug\GUI course work.exe.config
+D:\Studies\guiii\GUI course work 2.0\GUI course work\bin\Debug\GUI course work.exe
+D:\Studies\guiii\GUI course work 2.0\GUI course work\bin\Debug\GUI course work.pdb
+D:\Studies\guiii\GUI course work 2.0\GUI course work\bin\Debug\MySqlConnector.dll
+D:\Studies\guiii\GUI course work 2.0\GUI course work\bin\Debug\System.Buffers.dll
+D:\Studies\guiii\GUI course work 2.0\GUI course work\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Studies\guiii\GUI course work 2.0\GUI course work\bin\Debug\System.Memory.dll
+D:\Studies\guiii\GUI course work 2.0\GUI course work\bin\Debug\System.Numerics.Vectors.dll
+D:\Studies\guiii\GUI course work 2.0\GUI course work\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Studies\guiii\GUI course work 2.0\GUI course work\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Studies\guiii\GUI course work 2.0\GUI course work\bin\Debug\MySqlConnector.xml
+D:\Studies\guiii\GUI course work 2.0\GUI course work\bin\Debug\System.Buffers.xml
+D:\Studies\guiii\GUI course work 2.0\GUI course work\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Studies\guiii\GUI course work 2.0\GUI course work\bin\Debug\System.Memory.xml
+D:\Studies\guiii\GUI course work 2.0\GUI course work\bin\Debug\System.Numerics.Vectors.xml
+D:\Studies\guiii\GUI course work 2.0\GUI course work\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Studies\guiii\GUI course work 2.0\GUI course work\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Studies\guiii\GUI course work 2.0\GUI course work\obj\Debug\GUI course work.csproj.AssemblyReference.cache
+D:\Studies\guiii\GUI course work 2.0\GUI course work\obj\Debug\GUI course work.csproj.SuggestedBindingRedirects.cache
+D:\Studies\guiii\GUI course work 2.0\GUI course work\obj\Debug\GUI_course_work.Admin.resources
+D:\Studies\guiii\GUI course work 2.0\GUI course work\obj\Debug\GUI_course_work.AdminForm.resources
+D:\Studies\guiii\GUI course work 2.0\GUI course work\obj\Debug\GUI_course_work.BuyConfermation.resources
+D:\Studies\guiii\GUI course work 2.0\GUI course work\obj\Debug\GUI_course_work.Bverages.resources
+D:\Studies\guiii\GUI course work 2.0\GUI course work\obj\Debug\GUI_course_work.FoodItems.resources
+D:\Studies\guiii\GUI course work 2.0\GUI course work\obj\Debug\GUI_course_work.Form1.resources
+D:\Studies\guiii\GUI course work 2.0\GUI course work\obj\Debug\GUI_course_work.Properties.Resources.resources
+D:\Studies\guiii\GUI course work 2.0\GUI course work\obj\Debug\GUI_course_work.SelectMethod.resources
+D:\Studies\guiii\GUI course work 2.0\GUI course work\obj\Debug\GUI_course_work.UpdateForm.resources
+D:\Studies\guiii\GUI course work 2.0\GUI course work\obj\Debug\GUI course work.csproj.GenerateResource.cache
+D:\Studies\guiii\GUI course work 2.0\GUI course work\obj\Debug\GUI course work.csproj.CoreCompileInputs.cache
+D:\Studies\guiii\GUI course work 2.0\GUI course work\obj\Debug\GUI course work.csproj.CopyComplete
+D:\Studies\guiii\GUI course work 2.0\GUI course work\obj\Debug\GUI course work.exe
+D:\Studies\guiii\GUI course work 2.0\GUI course work\obj\Debug\GUI course work.pdb
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\bin\Debug\GUI course work.exe.config
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\bin\Debug\GUI course work.exe
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\bin\Debug\GUI course work.pdb
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\bin\Debug\MySqlConnector.dll
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\bin\Debug\System.Buffers.dll
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\bin\Debug\System.Memory.dll
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\bin\Debug\MySqlConnector.xml
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\bin\Debug\System.Buffers.xml
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\bin\Debug\System.Memory.xml
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\obj\Debug\GUI course work.csproj.AssemblyReference.cache
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\obj\Debug\GUI course work.csproj.SuggestedBindingRedirects.cache
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\obj\Debug\GUI_course_work.Admin.resources
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\obj\Debug\GUI_course_work.AdminForm.resources
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\obj\Debug\GUI_course_work.BuyConfermation.resources
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\obj\Debug\GUI_course_work.Bverages.resources
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\obj\Debug\GUI_course_work.FoodItems.resources
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\obj\Debug\GUI_course_work.Form1.resources
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\obj\Debug\GUI_course_work.Properties.Resources.resources
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\obj\Debug\GUI_course_work.SelectMethod.resources
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\obj\Debug\GUI_course_work.UpdateForm.resources
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\obj\Debug\GUI course work.csproj.GenerateResource.cache
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\obj\Debug\GUI course work.csproj.CoreCompileInputs.cache
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\obj\Debug\GUI course work.csproj.CopyComplete
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\obj\Debug\GUI course work.exe
+C:\Users\Geeneth\Desktop\GUI course work 3.1\GUI course work\obj\Debug\GUI course work.pdb
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\bin\Debug\GUI course work.exe.config
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\bin\Debug\GUI course work.exe
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\bin\Debug\GUI course work.pdb
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\bin\Debug\MySqlConnector.dll
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\bin\Debug\System.Buffers.dll
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\bin\Debug\System.Memory.dll
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\bin\Debug\System.Numerics.Vectors.dll
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\bin\Debug\MySqlConnector.xml
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\bin\Debug\System.Buffers.xml
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\bin\Debug\System.Memory.xml
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\bin\Debug\System.Numerics.Vectors.xml
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\obj\Debug\GUI course work.csproj.AssemblyReference.cache
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\obj\Debug\GUI_course_work.Admin.resources
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\obj\Debug\GUI_course_work.AdminForm.resources
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\obj\Debug\GUI_course_work.BuyConfermation.resources
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\obj\Debug\GUI_course_work.Bverages.resources
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\obj\Debug\GUI_course_work.FoodItems.resources
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\obj\Debug\GUI_course_work.Form1.resources
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\obj\Debug\GUI_course_work.Properties.Resources.resources
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\obj\Debug\GUI_course_work.SelectMethod.resources
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\obj\Debug\GUI_course_work.UpdateForm.resources
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\obj\Debug\GUI course work.csproj.GenerateResource.cache
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\obj\Debug\GUI course work.csproj.CoreCompileInputs.cache
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\obj\Debug\GUI cour.57A70837.Up2Date
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\obj\Debug\GUI course work.exe
+E:\Lecture Materials\C#\DSE GUI Course Work Final\DSE GUI Course Work Final\GUI course work 3.1\GUI course work\obj\Debug\GUI course work.pdb
