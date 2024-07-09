@@ -1,9 +1,9 @@
-### **Restaurants Meals Ordering System**
+# **Restaurants Meals Ordering System**
 
 Welcome to the Restaurant Meal Ordering System! This project is designed to streamline the management of meals, beverages, and administrative operations. Developed using C# and SQL Server Management Studio, the system enables users to order meals and beverages efficiently. Customers can visualize their orders and make changes using the side panel. Administrators can perform various tasks such as adding, deleting, and updating items, as well as generating reports.
 
 
-**Features**
+# **Features**
 
 •	Admin Login: Safe login process for administrator access.
 
@@ -16,7 +16,7 @@ Welcome to the Restaurant Meal Ordering System! This project is designed to stre
 •	Generate Reports: Admin can generate daily selling report.
 
 
-**Technologies Used**
+# **Technologies Used**
 
 •	C#: A programming language used for developing application logic. 
 
@@ -28,7 +28,7 @@ Welcome to the Restaurant Meal Ordering System! This project is designed to stre
 
 
 
-**Project Structure**
+# **Project Structure**
 
 /GUI course work: Contains source code files for the Library Management System.
 
@@ -41,7 +41,7 @@ Welcome to the Restaurant Meal Ordering System! This project is designed to stre
 /GUI course work/GUI course work.sln: Run this application.
 
 
-**Getting Started**
+# **Getting Started**
 
 1.	Download project or create clone.
 2.	Copy database folder to you sever databases store location. (Copy cafedb folder into below location)
@@ -51,34 +51,34 @@ Welcome to the Restaurant Meal Ordering System! This project is designed to stre
 
 
 
-**Admin Login and User Login**
+# **Admin Login and User Login**
 
 ![Screenshot 2024-07-06 005152](https://github.com/KanchanaWijesooriya/Restaurants-Meals-Ordering-System/assets/160541254/5cd1edcb-1ee5-4cf9-8dab-29442005a934)
 
-**Home Page**
+# **Home Page**
 
 ![Screenshot 2024-07-06 005157](https://github.com/KanchanaWijesooriya/Restaurants-Meals-Ordering-System/assets/160541254/a28cc899-31ce-4fc4-92ed-316c880f221c)
 
-**Meals Ordering Page**
+# **Meals Ordering Page**
 
 ![Screenshot 2024-07-06 005202](https://github.com/KanchanaWijesooriya/Restaurants-Meals-Ordering-System/assets/160541254/bc8ea09b-20b5-408d-8867-6bdc18266d93)
 
-**Beverages Ordering Page**
+# **Beverages Ordering Page**
 
 ![Screenshot 2024-07-06 005208](https://github.com/KanchanaWijesooriya/Restaurants-Meals-Ordering-System/assets/160541254/1af42398-eb86-4759-b489-82f07290c1ef)
 
-**Admin Control Panel** 
+# **Admin Control Panel** 
 
 ![Screenshot 2024-07-06 005532](https://github.com/KanchanaWijesooriya/Restaurants-Meals-Ordering-System/assets/160541254/d381be44-9036-43ea-af4d-0ae8f93ba0fd)
 
-**Update Items Page**
+# **Update Items Page**
 
 ![Screenshot 2024-07-06 005520](https://github.com/KanchanaWijesooriya/Restaurants-Meals-Ordering-System/assets/160541254/94f9eaf3-064c-4058-bcc4-3e20991b0188)
 
-**Add Items Page**
+# **Add Items Page**
 
 ![Screenshot 2024-07-06 005224](https://github.com/KanchanaWijesooriya/Restaurants-Meals-Ordering-System/assets/160541254/dfd29996-6891-4b1b-9a22-a2b87177a0b2)
 
-**Admin Generated Reports**
+# **Admin Generated Reports**
 
 ![Screenshot 2024-07-05 200202](https://github.com/KanchanaWijesooriya/Restaurants-Meals-Ordering-System/assets/160541254/50ec02b1-a0f5-47c3-8e47-efea7f711481)
