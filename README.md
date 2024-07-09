@@ -2,6 +2,7 @@
 
 Welcome to the Restaurant Meal Ordering System! This project is designed to streamline the management of meals, beverages, and administrative operations. Developed using C# and SQL Server Management Studio, the system enables users to order meals and beverages efficiently. Customers can visualize their orders and make changes using the side panel. Administrators can perform various tasks such as adding, deleting, and updating items, as well as generating reports.
 
+
 **Features**
 
 •	Admin Login: Safe login process for administrator access.
@@ -14,6 +15,7 @@ Welcome to the Restaurant Meal Ordering System! This project is designed to stre
 
 •	Generate Reports: Admin can generate daily selling report.
 
+
 **Technologies Used**
 
 •	C#: A programming language used for developing application logic. 
@@ -23,6 +25,7 @@ Welcome to the Restaurant Meal Ordering System! This project is designed to stre
 •	Visual Studio: An Integrated Development Environment (IDE) for C# development. 
 
 •	GitHub: A platform for version control and project hosting.
+
 
 
 **Project Structure**
@@ -37,6 +40,7 @@ Welcome to the Restaurant Meal Ordering System! This project is designed to stre
 
 /GUI course work/GUI course work.sln: Run this application.
 
+
 **Getting Started**
 
 1.	Download project or create clone.
@@ -44,6 +48,7 @@ Welcome to the Restaurant Meal Ordering System! This project is designed to stre
         Ex: If you are using Wamp Server, copy folder to... C:\wamp64\bin\mysql\mysql5.7.36\data
 3.	Run the local host server on your pc and login to it.
 4.	Open GUI course work.sln and run.
+
 
 
 **Admin Login and User Login**
